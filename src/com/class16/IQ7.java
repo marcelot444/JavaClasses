@@ -7,7 +7,7 @@ public class IQ7 {
 		// take range of numbers from 1 to 100 and print all prime
 		// 2,3 (2,3), 4(2,3,4) 5(2,3,4,5,), 6(2,3,4,5,6)
 
-		int num = 5;
+		int num = 6;
 		boolean isPrime = true;
 
 		if (num == 0 || num == 1) {
